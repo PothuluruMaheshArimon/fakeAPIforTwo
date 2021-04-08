@@ -18,7 +18,7 @@
     "machineId": "72 Final Test",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
-    "resultState": "2",
+    "resultState": "1",
     "shiftCode": "null",
     "timeStamp": "2019-11-11 22:38:00.417417 +5:30",
     "typeNumber": "0261S1002Y",
@@ -26,17 +26,17 @@
     "uniquePartId": "0604478935",
     "workcycleCounter": "0"
   }, {
-    "locationId": "00000000002000720001100010001",
+    "locationId": "00000000001800720001100010001",
     "locationResultUid": "C6C25C9097F233458DC2882BBD4C5129",
     "machineId": "72 Final Test",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
-    "resultState": "2",
+    "resultState": "1",
     "shiftCode": "null",
     "timeStamp": "2019-11-11 22:38:00.425317 +5:30",
     "typeNumber": "1038408867",
     "typeVarient": "0002",
-    "uniquePartId": "0604484770",
+    "uniquePartId": "001123211013524",
     "workcycleCounter": "0"
   }, {
     "locationId": "00000000002100720001100010001",
@@ -96,7 +96,7 @@
     "machineId": "72 Final Test",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
-    "resultState": "2",
+    "resultState": "1",
     "shiftCode": "null",
     "timeStamp": "2019-11-11 22:38:00.936358 +5:30",
     "typeNumber": "0261S1002Y",
